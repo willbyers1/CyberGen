@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📸 Screenshots
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ead6b8df-a3ee-4b36-a3df-f35b0d9afb1f" />
 
 ## 📖 Overview
 
