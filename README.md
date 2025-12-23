@@ -26,6 +26,15 @@ The project features a **Cyberpunk/Dark Mode** aesthetic with a responsive Glass
 * **📋 Smart Clipboard:** One-click copy functionality with instant user feedback.
 * **🎨 Modern UI:** A responsive, dark-mode-first interface designed for a modern aesthetic.
 
+  
+## 🚫 No API Key Required
+
+Unlike many other tools that require complex setup or paid subscriptions, Cybergen is designed for **immediate, hassle-free use**.
+* **Zero Configuration:** No need to sign up, generate tokens, or manage API keys. Just open the app and start generating.
+* **100% Client-Side:** Since there is no backend API dependency, the application runs entirely in your browser.
+* **Offline Capable:** Works perfectly without an internet connection, ensuring you can generate secure passwords anywhere.
+
+  
 ## 🛠️ Tech Stack
 
 * **Core:** HTML5, TypeScript (Strict Mode)
